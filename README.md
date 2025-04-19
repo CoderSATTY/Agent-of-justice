@@ -9,7 +9,7 @@ git clone https://github.com/CoderSATTY/Agent-of-justice.git
 ```
 ### Requirements
 
-Python 3.8+ is required. 
+Python 3.8+ is required.\
 2. Install dependencies from the requirements.txt file
 ```bash
 pip install -r requirements.txt
@@ -23,9 +23,9 @@ GROQ_API_KEY=your_api_key_here
 
 5. Run the scripts (see below)
 ```bash
-python scripts/.py
+python scripts/all_courtcases_simulation.py
 ```
 ```bash
-python scripts/.py
+python scripts/hardcoded_courtroom_simulation.py
 ```
 
