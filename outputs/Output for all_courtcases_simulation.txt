@@ -1,0 +1,181 @@
+Do you want to enter a case description (d) or use a case ID from file (i)? [d/i]: i
+Enter case ID (0 - 499): 2
+Case 2 Simulation here it begins...
+
+==== Opening Statements ====
+JUDGE: This Honorable Court is now in session. I, Satyam Ashtikar, presiding Judge, greet you all and welcome you to this appeal hearing.
+
+Before we begin, I would like to remind all parties involved that the purpose of this court is to ensure a fair and impartial trial. I will ensure that the proceedings are conducted in accordance with the law and that all counsel and parties have a fair opportunity to present their arguments.
+
+To set the stage for today's hearing, I would like to summarize the case background. The appeal before us challenges the judgment of the Madras High Court, which held that the appellant was married to the respondent. The appellant has filed a petition under Section 125 Cr.P.C., alleging a marriage to one Lakshmi in 1980 and a male child with her, while the respondent has filed a petition under Section 125 Cr.P.C., alleging a marriage to the appellant in 1986 and being deserted by him.
+
+The High Court and the Family Court Judge are being challenged for allegedly erring in law by holding that the appellant was married to the respondent without issuing notice to Lakshmi. The Court's reasoning was that since Lakshmi was not made a party to the proceedings and was not heard, any declaration about her marital status vis-à-vis the appellant is null and void.
+
+Additionally, the Court examined the provisions of The Protection of Women from Domestic Violence Act, 2005, and held that a relationship in the nature of marriage is akin to a common law marriage, requiring that the parties must hold themselves out to society as being akin to spouses, be of legal age to marry, be otherwise qualified to enter into a legal marriage, and have voluntarily cohabited and held themselves out to the world as being akin to spouses for a significant period of time.
+
+The Court concluded that a relationship in the nature of marriage under the 2005 Act must also fulfill these requirements.
+
+Now, let us proceed with the hearing. Counsel for the appellant, please present your opening argument. Remember to adhere to the time limits and to avoid repetition. 
+
+PROSECUTION: Honorable members of the court, esteemed colleagues, and ladies and gentlemen of the jury, I present to you the case of the State versus the respondent. Today, we gather to challenge the judgment of the Madras High Court, which held that the respondent was married to the appellant. I will demonstrate that this judgment was flawed, and we, the State, will prove that the respondent's claim of being married to the appellant is baseless.
+
+The respondent's petition under Section 125 Cr.P.C. alleges that she was married to the appellant in 1986 and was deserted by him. However, our investigation reveals that this claim is false. In fact, our evidence will show that the appellant was already married to one Lakshmi in 1980 and has a male child with her.
+
+The High Court and the Family Court Judge erred in law by declaring that the appellant was married to the respondent without issuing notice to Lakshmi. As a result, any declaration about the respondent's marital status vis-à-vis the appellant is null and void. We will demonstrate that the respondent's relationship with the appellant cannot be recognized as a valid marriage, as it fails to meet the requirements of the Protection of Women from Domestic Violence Act, 2005.
+
+Under this Act, a relationship in the nature of marriage requires that the parties must hold themselves out to society as being akin to spouses, be of legal age to marry, be otherwise qualified to enter into a legal marriage, and have voluntarily cohabited and held themselves out to the world as being akin to spouses for a significant period of time. Our evidence will show that the respondent and the appellant do not meet these criteria.
+
+Throughout this trial, we will present credible witnesses, including Lakshmi, who will testify to the appellant's prior marriage and the existence of their child. We will also present documents and records that will demonstrate the respondent's attempts to conceal her true relationship with the appellant.
+
+In conclusion, we are confident that the evidence will show that the respondent's claim of being married to the appellant is baseless. We urge the court to set aside the judgment of the Madras High Court and uphold the law. The State will prove that the respondent's relationship with the appellant is not a valid marriage and that the respondent is not entitled to any relief under Section 125 Cr.P.C.
+
+Thank you. 
+
+DEFENSE: Ladies and gentlemen of the jury, esteemed members of the court, today marks the beginning of a critical chapter in the life of my client, [Defendant's Name]. As the lead Defense Counsel, it is my duty to ensure that their constitutional rights are protected, and that the truth is revealed through a fair and impartial trial.
+
+The prosecution has presented a narrative, but I urge you to approach it with a critical eye. The evidence they've presented is circumstantial at best, and I will demonstrate that it falls short of the rigorous standards required to secure a conviction.
+
+The prosecution's case relies heavily on the testimony of [Key Witness], who has been shown to have a questionable reputation and a clear motive to lie. Furthermore, the physical evidence they've presented is incomplete, and I will show that it can be interpreted in multiple ways.
+
+As we proceed, I will also highlight the inconsistencies in the prosecution's timeline, which raises serious doubts about the credibility of their account. We will also examine the potential alternative explanations for the events in question, which undermine the prosecution's theory of the case.
+
+My client is presumed innocent until proven guilty beyond a reasonable doubt. It is our duty as a society to ensure that the accused receives a fair trial, free from bias and prejudice. I ask you to keep an open mind, to consider the evidence with a critical eye, and to return a verdict that is just and fair.
+
+In the coming days, we will present our own evidence, which will challenge the prosecution's narrative and raise further doubts about the strength of their case. I am confident that, after hearing all the evidence, you will find that my client is not guilty of the charges brought against them.
+
+Thank you. 
+
+==== Witness Interrogation & Argumentation ====
+PROSECUTION: Witness Testimony:
+
+I call to the stand, Lakshmi, the appellant's former wife.
+
+Lakshmi: (testifying) I married the appellant in 1980, and we had a son together. We lived together until 1985, when the appellant left me and our son without any notice or explanation. Since then, I have been living separately and have been taking care of our son on my own.
+
+Arnav Jain: (questioning) Can you show us any documents or records that prove your marriage to the appellant?
+
+Lakshmi: (producing documents) Yes, here are our wedding invitation, marriage certificate, and other documents that prove our marriage.
+
+Arnav Jain: (questioning) Did you ever receive any notice or intimation from the respondent or the Family Court about the proceedings related to her petition under Section 125 Cr.P.C.?
+
+Lakshmi: (testifying) No, I never received any notice or intimation from the respondent or the Family Court about the proceedings. I only came to know about the respondent's petition when I heard about it from someone who saw the newspaper report.
+
+Arnav Jain: (questioning) Did you ever meet the respondent or have any interaction with her?
+
+Lakshmi: (testifying) Yes, I met the respondent once, when she came to my house to ask for some information about the appellant. She seemed aggressive and demanding, and I felt threatened by her behavior.
+
+Arnav Jain: (concluding) Thank you, Lakshmi. You may stand down.
+
+Legal Argument:
+
+Arnav Jain: (summarizing) The respondent's petition under Section 125 Cr.P.C. is based on her alleged marriage to the appellant in 1986, which is a clear attempt to circumvent the law and deprive the appellant's former wife, Lakshmi, of her rights. The High Court and the Family Court erred in law by declaring that the appellant was married to the respondent without issuing notice to Lakshmi. This is a clear violation of the principles of natural justice and the rights of the appellant's former wife.
+
+We urge the court to set aside the judgment of the Madras High Court and uphold the law. The respondent's claim of being married to the appellant is baseless, and she is not entitled to any relief under Section 125 Cr.P.C.
+
+The respondent's relationship with the appellant does not meet the requirements of the Protection of Women from Domestic Violence Act, 2005. She 
+
+DEFENSE: Cross-Examination of [Key Witness]:
+
+Yatharth Gupta: Good afternoon, [Key Witness]. I understand that you've been a crucial witness in this case, and I'd like to clarify some points. Can you confirm that you were at the scene of the crime on the night of [Date], around [Time]?
+
+[Key Witness]: Yes, I was there.
+
+Yatharth Gupta: And can you tell me what you saw?
+
+[Key Witness]: I saw [Defendant's Name] arguing with [Accomplice's Name]. They were shouting and seemed very upset.
+
+Yatharth Gupta: Did you see any physical altercation or violence between the two individuals?
+
+[Key Witness]: No, I didn't see any physical violence. They were just arguing.
+
+Yatharth Gupta: And how far away were you from the individuals when you saw them arguing?
+
+[Key Witness]: I was about 20-25 feet away.
+
+Yatharth Gupta: Did you notice anything unusual or out of the ordinary during that time?
+
+[Key Witness]: No, nothing unusual caught my attention.
+
+Yatharth Gupta: And can you confirm that you didn't have any prior knowledge of the events leading up to the argument?
+
+[Key Witness]: No, I didn't.
+
+Yatharth Gupta: And did you report this incident to the authorities immediately after it happened?
+
+[Key Witness]: No, I didn't. I didn't think it was a big deal at the time.
+
+Yatharth Gupta: And only after being questioned by the police did you come forward with this information?
+
+[Key Witness]: Yes, that's correct.
+
+Yatharth Gupta: And isn't it true that you've had prior dealings with the police?
+
+[Key Witness]: (pauses) Yes, I've had some issues with the law in the past.
+
+Yatharth Gupta: And isn't it true that you've been arrested multiple times for various crimes, including theft and drug possession?
+
+[Key Witness]: (hesitates) Yes, that's true.
+
+Yatharth Gupta: And isn't it true that you're currently on probation for one of those charges?
+
+[Key Witness]: (nervously) Yes, that's true.
+
+Yatharth Gupta: And isn't it true that you're facing additional charges for a separate incident that occurred last week?
+
+[Key Witness]: (defensively) That's not relevant!
+
+Yatharth Gupta: (smiling) Ah, but it is relevant, isn't it? You see, 
+
+==== Closing Statements ====
+PROSECUTION: Honorable members of the court, esteemed colleagues, and ladies and gentlemen of the jury, I present to you the closing statement of the State versus the respondent.
+
+The respondent's petition under Section 125 Cr.P.C. alleged that she was married to the appellant in 1986 and was deserted by him. However, our investigation revealed that this claim is false. The appellant was already married to Lakshmi in 1980, and they have a male child together.
+
+The High Court and the Family Court Judge erred in law by declaring that the appellant was married to the respondent without issuing notice to Lakshmi. As a result, any declaration about the respondent's marital status vis-à-vis the appellant is null and void.
+
+Our evidence showed that the respondent's relationship with the appellant does not meet the requirements of the Protection of Women from Domestic Violence Act, 2005. The respondent and the appellant did not hold themselves out to society as being akin to spouses, were not of legal age to marry, were not otherwise qualified to enter into a legal marriage, and did not voluntarily cohabitate and hold themselves out to the world as being akin to spouses for a significant period of time.
+
+We presented credible witnesses, including Lakshmi, who testified to the appellant's prior marriage and the existence of their child. We also presented documents and records that demonstrate the respondent's attempts to conceal her true relationship with the appellant.
+
+In conclusion, we urge the court to set aside the judgment of the Madras High Court and uphold the law. The respondent's claim of being married to the appellant is baseless, and she is not entitled to any relief under Section 125 Cr.P.C.
+
+The State has proven that the respondent's relationship with the appellant is not a valid marriage and that the respondent is not entitled to any relief. We trust that the court will deliver justice and set aside the judgment of the Madras High Court.
+
+Thank you. 
+
+DEFENSE: Ladies and gentlemen of the jury, esteemed members of the court, as we conclude this trial, I'd like to summarize the defense's case and reiterate our arguments.
+
+Throughout this trial, the prosecution has presented a narrative that relies heavily on circumstantial evidence and the testimony of a witness with a questionable reputation. We've shown that [Key Witness] has a clear motive to lie, and their credibility has been severely undermined by their own testimony.
+
+We've also demonstrated that the physical evidence presented by the prosecution is incomplete and can be interpreted in multiple ways. The timeline of events presented by the prosecution is riddled with inconsistencies, and we've shown that there are alternative explanations for the events in question.
+
+As the defense, it's our duty to raise reasonable doubt about the prosecution's case. And I believe we've done just that. The evidence presented by the prosecution falls short of the rigorous standards required to secure a conviction. The prosecution's case relies heavily on speculation and hearsay, and we've shown that the witness's testimony is unreliable.
+
+My client is presumed innocent until proven guilty beyond a reasonable doubt. And I urge you to consider the evidence carefully and to return a verdict that is just and fair. Remember, the burden of proof lies with the prosecution, not the defense.
+
+In conclusion, we've presented a strong defense that raises serious doubts about the prosecution's case. I ask you to carefully consider the evidence and to return a verdict that reflects the reasonable doubt that we've raised.
+
+Thank you for your attentiveness throughout this trial. I hope that you will consider our arguments and return a verdict that is just and fair.
+
+I rest my case. 
+
+==== Judge’s Ruling ====
+JUDGE: After careful consideration of the evidence and arguments presented during the trial, I, Satyam Ashtikar, presiding Judge, hereby deliver my verdict.
+
+The appeal filed by the appellant is allowed. The judgment of the Madras High Court, which held that the appellant was married to the respondent, is set aside.
+
+The court finds that the High Court and the Family Court Judge erred in law by holding that the appellant was married to the respondent without issuing notice to Lakshmi. The court holds that the appellant's marriage to Lakshmi in 1980 and their subsequent cohabitation and having a male child together are valid and binding.
+
+Furthermore, the court finds that the provisions of The Protection of Women from Domestic Violence Act, 2005, do not apply in this case. The court concludes that the relationship between the appellant and Lakshmi does not meet the requirements of a relationship in the nature of marriage under the 2005 Act.
+
+In reaching this conclusion, the court has carefully considered the evidence and arguments presented by both parties. The court has also taken into account the principles of natural justice and the need to protect the rights of all parties involved.
+
+Now, I would like to make a few final remarks.
+
+To the parties involved, I urge you to respect the court's decision and to work towards a peaceful resolution. This court's primary concern is the well-being and welfare of all parties, and we will continue to strive to ensure that justice is served.
+
+To the counsel, I appreciate the diligent efforts you have put into this case. Your professionalism and expertise have been invaluable in helping the court reach a fair and just decision.
+
+Finally, to the public, I would like to emphasize the importance of upholding the law and respecting the decisions of the court. The administration of justice is a sacred trust, and it is our collective responsibility to ensure that it is upheld.
+
+With these remarks, this court is adjourned. 
