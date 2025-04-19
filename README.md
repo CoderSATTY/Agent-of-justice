@@ -1,9 +1,9 @@
 # Agent-of-justice
-MAS(Multi Agent System) based Court room simulation taking court case or court case_id from the dataset as input and tries to depict real time court trial simulation followed with real life instances occuring inside the court. 
+This is a MAS(Multi Agent System) based Court room simulation which fetches court case or court case_id from the dataset as input and tries to depict real time court trial simulation followed with real life instances occuring inside the court. 
 
 ## Architecture 
 The court room simulation is done by 4 Agents i.e. Judge, Plaintiff, Defense Lawyer, Prosecution Lawyer. The Defendant and Witnesses have very small yet necessary parts and thus they are dynamically called as the court trial proceeds but they are only instantiated at a particular time of simulation so no Agents were created for that case. I have also added one more Agent named as Summarizer who will ensure the token limit (TPM) is not exceeding by summarizing the contextualized text.       
-The architecture uses these 5 core agents, each playing a courtroom role which was the boundary condition for the Agent's behaviour, powered by Groq-hosted LLaMA 3 models:
+The architecture uses these 5 core agents, each playing a courtroom role (except the Summarizer) which is the boundary condition for the Agent's behaviour, powered by Groq-hosted LLaMA 3 models:
 
 | Role| Description |
 |----------|----------|
@@ -12,7 +12,8 @@ The architecture uses these 5 core agents, each playing a courtroom role which w
 |  Prosecution	 | Argues the case on behalf of the state| 
 | Defense	 | Defends the accused and rebuts prosecution | 
 | Summarizer | Condenses lengthy case texts to prevent token overflow| 
-	
+
+I have used LLaMA 3b-8192 model as my LLM which gave sufficiently good outputs!
 ## Execution Flow
 
 
