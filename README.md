@@ -9,15 +9,23 @@ Python 3.8+ is required. Install dependencies with:
 pip install -r requirements.txt
 ```
 ## Setup Instructions
-Clone this repository
+1. Clone this repository
 ```bash
-git clone 
+git clone https://github.com/CoderSATTY/Agent-of-justice.git
 ```
 
-Create a .env file in the root directory with your Groq API key:
+2. Create a .env file in the root directory with your Groq API key:
 
-env
+```env
 GROQ_API_KEY=your_api_key_here
-Place your input data in data/data.csv
+```
+3. Place your input data path in the code before running the scripts
 
-Run the scripts (see below)
+4. Run the scripts (see below)
+```bash
+python scripts/.py
+```
+```bash
+python scripts/.py
+```
+
