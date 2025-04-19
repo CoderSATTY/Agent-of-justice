@@ -118,7 +118,7 @@ summary = summarizer.respond(f"Summarize this case for courtroom discussion:\n\n
 
 
 print("==== Opening Statements ====")
-j1 = judge.respond(f"Call the court to order. Case background: {summary}")
+j1 = judge.respond(f"Call the court to order and greet everyone before starting the case. Case background: {summary}")
 print("JUDGE:", j1, "\n")
 
 p_open = prosecution.respond(f"Opening statement. Background: {summary}")
